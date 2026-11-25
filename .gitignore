@@ -4,3 +4,5 @@ node_modules/
 # Tripo asset-tool leftovers
 .tripo/
 **/tripo-out/
+
+.vercel
